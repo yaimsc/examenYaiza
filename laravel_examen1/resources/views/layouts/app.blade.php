@@ -16,7 +16,7 @@
 						<a href="{{ route('hotels')}}">Hoteles de 1ª</a>
 						<a href="{{ route('clientes')}}">Clientes</a>
 						<a href="/formulario">Nuevo Cliente</a>
-						<a href="/reserva/{id == 1}">Reserva</a>
+						<a href="/reserva/1">Reserva</a>
           </div>
           <hr><br><br>
 					<div class="op">
